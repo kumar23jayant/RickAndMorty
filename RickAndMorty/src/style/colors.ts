@@ -1,0 +1,6 @@
+export const COLOR_4485F5 = '#4485f5'
+export const COLOR_FFFFFF = '#ffffff'
+export const COLOR_3D3E45 = '#3d3e45'
+export const COLOR_9E9E9E = '#9e9e9e'
+export const COLOR_56CD44 = '#56cd44'
+export const COLOR_D63C2E = '#d63c2e'
